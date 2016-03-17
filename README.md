@@ -76,7 +76,7 @@ lein run examples/adder.eo "101" debug
 FIXME
 
 ## References/ Further Reading
-
+* [My blog post that walks through an example](http://gigasquidsoftware.com/blog/2016/03/16/kolmogorov-uspensky-machine/)
 * [On Kolmogorov Machines And Related Issues](http://research.microsoft.com/en-us/um/people/gurevich/opera/78.pdf)
 * [Kolmogorov's Heritage in Mathematics](https://books.google.com/books?id=SpTv44Ia-J0C&pg=PA284&lpg=PA284&dq=active+node+kolmogorov+uspensky+machine&source=bl&ots=uQQSLaaKOS&sig=9-V_m8z-Yh9zlzy6vX9MplGMbjw&hl=en&sa=X&ved=0ahUKEwjy8820rMDLAhVByYMKHWP5A8oQ6AEILDAC#v=onepage&q=active%20node%20kolmogorov%20uspensky%20machine&f=false)
 * [What is a "pointer machine"](http://dl.acm.org/citation.cfm?id=202846)
